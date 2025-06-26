@@ -1,0 +1,34 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SupplyBox_v3.PrjPcb]
+   Generated File[SupplyBox_v3_Copper_Signal_Top.gbr]
+   Generated File[SupplyBox_v3_Copper_Plane_1.gbr]
+   Generated File[SupplyBox_v3_Copper_Signal_1.gbr]
+   Generated File[SupplyBox_v3_Copper_Signal_2.gbr]
+   Generated File[SupplyBox_v3_Copper_Plane_2.gbr]
+   Generated File[SupplyBox_v3_Copper_Signal_Bot.gbr]
+   Generated File[SupplyBox_v3_Legend_Top.gbr]
+   Generated File[SupplyBox_v3_Legend_Bot.gbr]
+   Generated File[SupplyBox_v3_Soldermask_Top.gbr]
+   Generated File[SupplyBox_v3_Soldermask_Bot.gbr]
+   Generated File[SupplyBox_v3_Paste_Top.gbr]
+   Generated File[SupplyBox_v3_Paste_Bot.gbr]
+   Generated File[SupplyBox_v3_Profile.gbr]
+   Generated File[SupplyBox_v3_NPTH_Drill.gbr]
+   Generated File[SupplyBox_v3_PTH_Drill.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_1_2.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_1_3.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_1_4.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_1_5.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_2_6.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_3_6.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_4_6.gbr]
+   Generated File[SupplyBox_v3_Plated_Drill_5_6.gbr]
+   Generated File[SupplyBox_v3.EXTREP]
+   Generated File[SupplyBox_v3.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 5:35:52 PM On 4/1/2025

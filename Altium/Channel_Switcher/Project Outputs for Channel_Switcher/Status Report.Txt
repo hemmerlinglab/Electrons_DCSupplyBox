@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Channel_Switcher.PrjPcb]
+   Generated File[Channel_Switcher_Copper_Signal_Top.gbr]
+   Generated File[Channel_Switcher_Copper_Signal_Bot.gbr]
+   Generated File[Channel_Switcher_Legend_Top.gbr]
+   Generated File[Channel_Switcher_Legend_Bot.gbr]
+   Generated File[Channel_Switcher_Soldermask_Top.gbr]
+   Generated File[Channel_Switcher_Soldermask_Bot.gbr]
+   Generated File[Channel_Switcher_Paste_Top.gbr]
+   Generated File[Channel_Switcher_Paste_Bot.gbr]
+   Generated File[Channel_Switcher_Profile.gbr]
+   Generated File[Channel_Switcher_NPTH_Drill.gbr]
+   Generated File[Channel_Switcher_PTH_Drill.gbr]
+   Generated File[Channel_Switcher.EXTREP]
+   Generated File[Channel_Switcher.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 5:26:05 PM On 3/3/2025

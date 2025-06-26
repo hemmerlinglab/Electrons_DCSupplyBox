@@ -1,0 +1,283 @@
+Fitting Parameters by Channel
+============================================================
+
+Channel 1
+  Input¡úArtiq:
+    k (slope): 0.992067
+    b (offset): -0.075895
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.301409
+    b (offset): -0.003367
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.267287
+    b (offset): -0.329822
+    R^2: 1.000000
+
+Channel 2
+  Input¡úArtiq:
+    k (slope): 0.992141
+    b (offset): -0.081133
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.308278
+    b (offset): -0.000865
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.274418
+    b (offset): -0.350408
+    R^2: 1.000000
+
+Channel 3
+  Input¡úArtiq:
+    k (slope): 0.991920
+    b (offset): -0.076372
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.303614
+    b (offset): 0.001050
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.268841
+    b (offset): -0.327625
+    R^2: 1.000000
+
+Channel 4
+  Input¡úArtiq:
+    k (slope): 0.992157
+    b (offset): -0.078799
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.296883
+    b (offset): -0.004394
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.263181
+    b (offset): -0.342985
+    R^2: 1.000000
+
+Channel 5
+  Input¡úArtiq:
+    k (slope): 0.992092
+    b (offset): -0.083323
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.304126
+    b (offset): -0.001175
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.270090
+    b (offset): -0.359809
+    R^2: 1.000000
+
+Channel 6
+  Input¡úArtiq:
+    k (slope): 0.992150
+    b (offset): -0.069180
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.310907
+    b (offset): -0.003594
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.277066
+    b (offset): -0.301823
+    R^2: 1.000000
+
+Channel 7
+  Input¡úArtiq:
+    k (slope): 0.992212
+    b (offset): -0.082228
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.300781
+    b (offset): -0.002608
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.267287
+    b (offset): -0.356251
+    R^2: 1.000000
+
+Channel 8
+  Input¡úArtiq:
+    k (slope): 0.992042
+    b (offset): -0.077276
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.290386
+    b (offset): -0.002093
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.256244
+    b (offset): -0.333637
+    R^2: 1.000000
+
+Channel 9
+  Input¡úArtiq:
+    k (slope): 0.992377
+    b (offset): -0.078989
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.289795
+    b (offset): -0.004740
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.257093
+    b (offset): -0.343585
+    R^2: 1.000000
+
+Channel 10
+  Input¡úArtiq:
+    k (slope): 0.992212
+    b (offset): -0.082275
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.298956
+    b (offset): -0.003753
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.265476
+    b (offset): -0.357450
+    R^2: 1.000000
+
+Channel 11
+  Input¡úArtiq:
+    k (slope): 0.992206
+    b (offset): -0.075942
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.306837
+    b (offset): -0.000344
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.273272
+    b (offset): -0.327413
+    R^2: 1.000000
+
+Channel 12
+  Input¡úArtiq:
+    k (slope): 0.992329
+    b (offset): -0.085560
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.297005
+    b (offset): -0.003613
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.264042
+    b (offset): -0.371266
+    R^2: 1.000000
+
+Channel 13
+  Input¡úArtiq:
+    k (slope): 0.992212
+    b (offset): -0.082228
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.306352
+    b (offset): -0.001695
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.272815
+    b (offset): -0.355796
+    R^2: 1.000000
+
+Channel 14
+  Input¡úArtiq:
+    k (slope): 0.992445
+    b (offset): -0.082369
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.308492
+    b (offset): -0.001037
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.275944
+    b (offset): -0.355924
+    R^2: 1.000000
+
+Channel 15
+  Input¡úArtiq:
+    k (slope): 0.992214
+    b (offset): -0.085847
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.305922
+    b (offset): 0.001708
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.272398
+    b (offset): -0.367941
+    R^2: 1.000000
+
+Channel 16
+  Input¡úArtiq:
+    k (slope): 0.992314
+    b (offset): -0.080608
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.306135
+    b (offset): -0.002972
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.273038
+    b (offset): -0.350081
+    R^2: 1.000000
+
+Channel 17
+  Input¡úArtiq:
+    k (slope): 0.992329
+    b (offset): -0.087370
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.310380
+    b (offset): -0.000844
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.277313
+    b (offset): -0.377441
+    R^2: 1.000000
+
+Channel 18
+  Input¡úArtiq:
+    k (slope): 0.992312
+    b (offset): -0.087799
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.299234
+    b (offset): -0.003314
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.266180
+    b (offset): -0.380780
+    R^2: 1.000000
+
+Channel 19
+  Input¡úArtiq:
+    k (slope): 0.992253
+    b (offset): -0.080275
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.306782
+    b (offset): -0.002257
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.273416
+    b (offset): -0.347984
+    R^2: 1.000000
+
+Channel 20
+  Input¡úArtiq:
+    k (slope): 0.992359
+    b (offset): -0.082989
+    R^2: 1.000000
+  Artiq¡úAmp:
+    k (slope): 4.307252
+    b (offset): -0.002002
+    R^2: 1.000000
+  Input¡úAmp:
+    k (slope): 4.274342
+    b (offset): -0.359456
+    R^2: 1.000000
+

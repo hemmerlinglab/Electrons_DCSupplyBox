@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [SupplyBoxTest_v2.PrjPcb]
+   Generated File[SupplyBoxTest_v2_Copper_Signal_Top.gbr]
+   Generated File[SupplyBoxTest_v2_Copper_Signal_Bot.gbr]
+   Generated File[SupplyBoxTest_v2_Legend_Top.gbr]
+   Generated File[SupplyBoxTest_v2_Legend_Bot.gbr]
+   Generated File[SupplyBoxTest_v2_Soldermask_Top.gbr]
+   Generated File[SupplyBoxTest_v2_Soldermask_Bot.gbr]
+   Generated File[SupplyBoxTest_v2_Paste_Top.gbr]
+   Generated File[SupplyBoxTest_v2_Paste_Bot.gbr]
+   Generated File[SupplyBoxTest_v2_Profile.gbr]
+   Generated File[SupplyBoxTest_v2_NPTH_Drill.gbr]
+   Generated File[SupplyBoxTest_v2_PTH_Drill.gbr]
+   Generated File[SupplyBoxTest_v2.EXTREP]
+   Generated File[SupplyBoxTest_v2.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 1:30:35 PM On 2/4/2025
